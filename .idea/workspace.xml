@@ -2,50 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a370e9a-9983-4d50-bd9d-c8f605cae9a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/function/FunctionInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number/FactorialNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singletonPattern/DriverInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singletonPattern/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mohammadsahkamal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nullConcept/NullConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/Finance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/ICICBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/Kamal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/RBI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/Sha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/TestBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppConcept3/USBank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/ArrayConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/ArrayListConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/ConstructorConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/ConstructorWithThisKeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/DataType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/HashTableConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/IfElesConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/IncrementAndDecrementOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/LoopsConcepts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/StringConcateanation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/BasicJava/TwoDimentionalArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/listConcept/ArrayListConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/listConcept/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/listConcept/LinkedListConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept/CallbyValuCallbyRef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept/FunctionJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept/LocalVsGlovalVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept/MethodOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept/StaticAndNonstatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept/WrapperClassConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/BMW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/BrazilBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/HSBCBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/TestBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/TestCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/USBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/oopConcept2/Vechile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/testCases/FinalConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/testCases/FinalizeConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/testCases/FinallyConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/testPackage/ChildClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaNaveen/testPackage/ParentClass.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,25 +46,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.FactorialNumber">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="number.ArmstrongNumber" />
-      <module name="JavaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="number.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NullConcept">
     <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="number.FactorialNumber" />
       <module name="JavaBasic" />
@@ -110,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="number.PalindromeNumber" />
+    <configuration name="NullConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nullConcept.NullConcept" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="number.*" />
+          <option name="PATTERN" value="nullConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="number.PrimeNumber" />
+    <configuration name="Sha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oppConcept3.Sha" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="number.*" />
+          <option name="PATTERN" value="oppConcept3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +92,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singletonPattern.Singleton" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oppConcept3.Test" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singletonPattern.*" />
+          <option name="PATTERN" value="oppConcept3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oppConcept3.TestBank" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oppConcept3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NullConcept" />
+        <item itemvalue="Application.TestBank" />
+        <item itemvalue="Application.Sha" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.FactorialNumber" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.Singleton" />
       </list>
     </recent_temporary>
   </component>
@@ -189,41 +158,49 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="83" y="166" key="#Project_Structure/0.23.1680.956@0.23.1680.956" timestamp="1586468464783" />
+    <state x="1078" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1588889483220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1078" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1588889483220" />
     <state x="443" y="323" key="Github.CreateGistDialog" timestamp="1587141205779">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="443" y="323" key="Github.CreateGistDialog/0.0.1280.800@0.0.1280.800" timestamp="1587141205779" />
-    <state width="788" height="363" key="GridCell.Tab.0.bottom" timestamp="1588800835201">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="788" height="245" key="GridCell.Tab.0.bottom" timestamp="1588972332366">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1238" height="176" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1588539860648" />
-    <state width="788" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588800835201" />
+    <state width="788" height="245" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588970375617" />
     <state width="1238" height="148" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1588514491969" />
     <state width="1238" height="176" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1588554204716" />
+    <state width="788" height="245" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1588972332366" />
     <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1588766542629" />
-    <state width="788" height="363" key="GridCell.Tab.0.center" timestamp="1588800835200">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="788" height="245" key="GridCell.Tab.0.center" timestamp="1588972332364">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1238" height="176" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1588539860646" />
-    <state width="788" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588800835200" />
+    <state width="788" height="245" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588970375616" />
     <state width="1238" height="148" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1588514491966" />
     <state width="1238" height="176" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1588554204715" />
+    <state width="788" height="245" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1588972332364" />
     <state width="1638" height="245" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1588766542628" />
-    <state width="788" height="363" key="GridCell.Tab.0.left" timestamp="1588800835199">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="788" height="245" key="GridCell.Tab.0.left" timestamp="1588972332364">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1238" height="176" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1588539860646" />
-    <state width="788" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588800835199" />
+    <state width="788" height="245" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588970375614" />
     <state width="1238" height="148" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1588514491965" />
     <state width="1238" height="176" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1588554204714" />
+    <state width="788" height="245" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1588972332364" />
     <state width="1638" height="245" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1588766542628" />
-    <state width="788" height="363" key="GridCell.Tab.0.right" timestamp="1588800835201">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="788" height="245" key="GridCell.Tab.0.right" timestamp="1588972332365">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1238" height="176" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1588539860647" />
-    <state width="788" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588800835201" />
+    <state width="788" height="245" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588970375616" />
     <state width="1238" height="148" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1588514491968" />
     <state width="1238" height="176" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1588554204715" />
+    <state width="788" height="245" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1588972332365" />
     <state width="1638" height="245" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1588766542628" />
     <state width="788" height="363" key="GridCell.Tab.1.bottom" timestamp="1588800835212">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -261,6 +238,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="638" y="243" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588794460346" />
+    <state x="683" y="164" key="SettingsEditor" timestamp="1588971392614">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="683" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588971392614" />
     <state x="0" y="43" width="683" height="714" key="find.popup" timestamp="1588539239260">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
